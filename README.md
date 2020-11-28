@@ -1,2 +1,2 @@
 # prueba
-Prueba para inicia r a usar Github
+Prueba para iniciar a usar Github
